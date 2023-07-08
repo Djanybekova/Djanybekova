@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiperi</h1>
 <h3 align="center">A passionate backend developer from Kyrgyzstan</h3>
 
-- 🔭 I’m currently working on [PeaksoftLMS](https://github.com/peaksoft-school/peaksoftlms-b6)
-
 - 🌱 I’m currently learning **Junit 5**
 
 <h3 align="left">Connect with me:</h3>
